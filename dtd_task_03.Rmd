@@ -1,0 +1,36 @@
+---
+title: "dtd_task_03"
+author: "Austin Mangelson"
+date: "2024-06-11"
+output: html_document
+---
+
+**Novel questions data can answer:**
+
+-   *PokemonGO/Niantic*: Is player usage increasing or decreasing? How can we increase user retention and keep them engaged longer?
+
+-   *Video Game Creators*: How does user spending differ between mobile and console games? How can we maximize profits based on this?
+
+-   *Airlines*: What are the root causes of flight delays? How can we improve on-time performance to increase customer satisfaction?
+
+-   *Hospitals/Doctor Office*: In order to reduce both disease prevalence and healthcare costs, can we use medical imaging data to create a better screening process for patients?
+
+-   *Hospitals/Doctor Office*: Can we use patient data to detect early signs of chronic diseases? Can we create preventative measures?
+
+-   *Travel Agency*: Can travel booking data predict peak travel seasons to specific destinations? How can we adjust prices based on this data to maximize profits?
+
+-   *Fitness App Developer*: Why aren't users sticking with their workout plans? How can we help users stay motivated and achieve their fitness goals?
+
+-   *Health/Fitness*: How does sleep quality impact my calorie expenditure?
+
+-   *Local Governments*: Can we predict emerging religious movements or trends? How can we predict and prevent potential areas of conflict between different faiths?
+
+-   *Local Governments*: How can social media alert us to potential public safety threats? Can we prevent these?
+
+-   *Education and Employment*: What are the most in-demand skills for data analysts and data scientists? How can I best prepare myself for this career?
+
+-   *University*: How can we predict our student's success? Can we create personalized learning strategies for the student?
+
+-   *Music Streaming Service*: What are the emerging musical trends and artists that we should push/recommend to users?
+
+-   *Environmental Science*: What are the safest/most dangerous days/times to be outside for individuals with asthma?
