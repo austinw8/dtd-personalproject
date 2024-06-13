@@ -7,12 +7,18 @@ output: html_document
 
 **Novel questions data can answer:**
 
-1.  How does sleep quality impact my calorie expenditure and/or my metabolism?
+1.  What factors contribute to happiness? Where are the happiest regions/countries in the world? Why? Have countries experienced changes in happiness factors over time? [World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness)
 
-2.  Does the use of emojis on a social media post correlate with higher engagement (*likes, shares, comments, etc.*)? If so, is this consistent across different demographics and industries?
+2.  Do certain chess game openings have a better chance of leading to a victory? Is there a correlation between avg. number of turns in a game and the game status (win, loss, draw)? Does playing as white vs. black have an advantage? [Chess Game Dataset](https://www.kaggle.com/datasets/datasnaek/chess)
 
-3.  Are there recurring trends in literature genre popularity based on major historical events?
+3.  What has the biggest effect on chocolate bar ratings: Manufacturing company, bean type, or bean origin? What's the relationship between cocoa percentage and rating? Which countries produce the highest-rated bars? [Chocolate Bar Ratings](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings)
 
-4.  How do music listening habits and genre popularity relate to current weather conditions?
+4.  How does height and weight of a Pokemon correlate with its base stats? Which Pokemon type is strongest overall? Weakest? Which type is most likely to be a legendary Pokemon? [The Complete Pokemon Dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon)
 
-5.  By looking at geotags and locations of social media posts, can we predict upcoming tourist destinations/hot spots?
+5.  What's the average sleep duration? Are there relationships between daily steps and sleep quality? What about BMI or stress levels and sleep quality? Are there demographic or lifestyle factors associated with a higher risk of sleep disorders? [Sleep Health and Lifestyle](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+
+6.  What areas of the country are most likely to have UFO sightings? Are there trends in UFO sightings? For example, by location or season? Do UFO sightings correlate with landmarks? What are the most common UFO descriptions? [UFO Sightings](https://www.kaggle.com/datasets/NUFORC/ufo-sightings)
+
+7.  What are the relationships between fetal heart rate, fetal movements, uterine contractions, and accelerations/deceleration? Can the frequency of deceleration predict potential fetal distress? Can FHR and deceleration help identify fetuses at risk? [Fetal Health Classification](https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification)
+
+8.  What are the average levels of freedom across different regions of the world? Are there regional trends in specific freedoms? Are there correlations between government size and economic (or other) freedoms? How does a country's HFI correlate to is development or political system? [The Human Freedom Index](https://www.kaggle.com/datasets/gsutters/the-human-freedom-index?select=hfi_cc_2020.csv)
